@@ -1,4 +1,9 @@
-
+/* Program Comment Block:
+Name:  Zak Begley
+Date:  09/10/2023
+Course:  CSC 1029
+Description:  Hello World project for "Try Git in Replit" PearDeck assignment.  The code will create a greeting message of Hello World, and then ask the user for their name.  It will then output "Hello World YourName!" to the console.
+  */
 #include <iostream>
 
 int main() 
